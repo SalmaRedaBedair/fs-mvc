@@ -1,11 +1,12 @@
 {
+    "minimum-stability": "dev",
     "require": {
   "madskullcreations/simplicity":"dev-master@dev"
 },"repositories": [
-  {
-     "type": "vcs",
-     "url": "https://github.com/madskullcreations/simplicity" 
-  }
+    {
+        "type": "composer",
+        "url": "https://your-private-repo.com"
+    }
 ],
     "name": "loma/fs-mvc",
     "description": "A short description of what your package does",
