@@ -1,5 +1,5 @@
 {
-    "name": "loma/fsMVC",
+    "name": "loma/fs-mvc",
     "description": "A short description of what your package does",
     "require": {
         "php": ">=7.4",
