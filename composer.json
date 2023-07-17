@@ -1,4 +1,12 @@
 {
+    "require": {
+  "madskullcreations/simplicity":"dev-master@dev"
+},"repositories": [
+  {
+     "type": "vcs",
+     "url": "https://github.com/madskullcreations/simplicity" 
+  }
+],
     "name": "loma/fs-mvc",
     "description": "A short description of what your package does",
     "require": {
